@@ -5,7 +5,7 @@
 
 ### 簡介: 
 
-* 運用 HTML5 CSS jQuery製作的簡易網頁練習 
+* 運用 HTML CSS jQuery製作的簡易網頁練習 
 
 ### Skill 
 
